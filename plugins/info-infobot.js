@@ -43,7 +43,7 @@ const handler = async (m, { conn, usedPrefix }) => {
 ╠➥ [👨‍🦯] 𝚅𝙴𝙻𝙾𝙲𝙸𝙳𝙰𝙳: 
 ╠  *${speed} ms* 
 ╠
-╠═〘 𝐊𝐔𝐌𝐀𝐍𝐃𝐑𝐈𝐓𝐎𝐒 𝐁𝐎𝐓𝐒 🐉 〙 ═
+╠═〘 SOÑADORES DE MRD ☠️ 〙 ═
 `.trim();
   const doc = [
     "pdf",
